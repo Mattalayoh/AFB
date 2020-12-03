@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ngfirebaseproy-fe40f": {
+      "hosting": {
+        "ngFirebase": [
+          "ngfirebaseproy-fe40f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ngfirebaseproy-fe40f"
+  }
+}
